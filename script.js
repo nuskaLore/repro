@@ -1,5 +1,4 @@
-// Designed by:  Mauricio Bucardo
-// Original image: https://dribbble.com/shots/6957353-Music-Player-Widget
+
 
 "use strict";
 
