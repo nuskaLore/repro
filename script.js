@@ -3,7 +3,7 @@
 "use strict";
 
 // add elemnts
-const bgBody = ["#282730", "#a0e0ba", "#56ce67", "#f3f4f8", "#778b9b", "#ffcbdc", "#7f9fdc"];
+const bgBody = ["#282730", "#282730", "#282730", "#282730", "#282730", "#282730", "#282730"];
 const body = document.body;
 const player = document.querySelector(".player");
 const playerHeader = player.querySelector(".player__header");
