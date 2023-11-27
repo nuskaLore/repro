@@ -317,3 +317,47 @@ img[alt ="pause-icon"] {
     display: none !important ;
 }
 
+/* Add this rule to make the background of the body and player__header transparent */
+body, .player__header {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the player transparent */
+.player {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the slider transparent */
+.slider {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the playlist transparent */
+.playlist {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the slider__context transparent */
+.slider__context {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the progres transparent */
+.progres {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the progres__filled transparent */
+.progres__filled {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the player__playlist transparent */
+.player__playlist {
+    background-color: transparent;
+}
+
+/* Add this rule to make the background of the player__song transparent */
+.player__song {
+    background-color: transparent;
+}
